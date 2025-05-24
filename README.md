@@ -5,9 +5,8 @@ Welcome to the **VerbiBee** project! 🌐 This is an AI-powered spelling and gra
 ---
 
 ## 🖼️ Preview
+.![Screenshot 2025-05-24 124030](https://github.com/user-attachments/assets/a058dab7-c8b5-440a-b8e3-b63ac3abe089)
 
-![Website Glimpse](.![Screenshot 2025-05-24 124030](https://github.com/user-attachments/assets/a058dab7-c8b5-440a-b8e3-b63ac3abe089)
-)
 
 *Here's a glimpse of the website design.*
 
