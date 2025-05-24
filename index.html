@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>VerbiBee - Context-Sensitive Spelling Correction</title>
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome for Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  
+  <link rel="stylesheet" href="style.css"/>
+  <script src="script.js" defer></script>
+
+  </head>
+
+ <body>
+  <div class="background">
+    <div class="container">
+      <h1 class="logo"><i class="fas fa-feather logo-icon"></i>VerbiBee</h1>
+      <hr class="divider"/>
+      <h2 class="subtitle">Your intelligent spelling & grammar assistant !!</h2>
+
+     <button class="toggle-dark" onclick="toggleDarkMode()" id="darkModeToggle">
+  <i class="fas fa-moon" id="modeIcon"></i>
+</button>
+
+      <!-- Removed settings panel and menu -->
+
+      <div class="input-output-container">
+        <!-- Input Section -->
+        <div class="input-container">
+          <div class="section-title">
+            <i class="fas fa-keyboard"></i> Enter Your Text
+          </div>
+          <textarea id="inputText" placeholder=""></textarea>
+          <!-- Word count removed -->
+          <div class="button-container">
+            <button id="correctButton">
+              <i class="fas fa-spell-check"></i> Check
+            </button>
+            <button id="clearButton">
+              <i class="fas fa-eraser"></i> Clear
+            </button>
+          </div>
+        </div>
+
+        <!-- Output Section -->
+        <div class="output-container">
+          <div class="section-title">
+            <i class="fas fa-check-circle"></i> Corrected Output :
+        </div>
+          <textarea id="outputText" placeholder="Corrected text will appear here..." readonly></textarea>
+          <!-- Word count removed -->
+          
+         </div>
+      </div>
+    </div>
+  </div>
+
+<!--Share Section -->
+  <div class="floating-actions">
+    <div class="floating-btn" id="shareBtn">
+      <i class="fas fa-share-alt"></i>
+      <span class="tooltip">Share</span>
+    </div>
+  </div>
+
+
+
+ 
+  </body>
+</html>
+    
+    
