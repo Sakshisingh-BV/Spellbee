@@ -46,9 +46,24 @@ To experience the website live, please visit: [https://verbibee.netlify.app](htt
 
 ---
 
-## 💻 Important Note
+## 🙋‍♀️ About the Authors
 
-For the best experience, I recommend opening the project on a **PC** as some features may not be fully optimized for mobile devices.
+This project was developed with passion and collaboration by:
+
+- **Surabhi Verma**  
+  📧 aloksurabhivermaofficial@gmail.com  
+  🔗 [LinkedIn](https://www.linkedin.com/in/surabhi-verma-4693012b1/)
+
+- **Suhasini Singh**  
+  📧 suhasinisingh015@gmail.com  
+  🔗 [LinkedIn](https://www.linkedin.com/in/suhasini-singh-bb49b0212/)
+
+- **Sakshi Singh**  
+  📧 sakshisinghgn2023@gmail.com  
+  🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-singh-782ab6293/)
+
+Feel free to reach out for collaboration, feedback, or just to connect!
+
 
 ---
 
