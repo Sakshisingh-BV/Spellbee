@@ -46,19 +46,28 @@ To experience the website live, please visit: [https://verbibee.netlify.app](htt
 
 ---
 
+## ⚠️ Known Limitations
+
+- 🌐 Currently supports **English language only**. Multilingual support (e.g., Hindi or regional languages) is not yet implemented.
+- ✏️ The grammar correction is not fully optimized — it may miss certain complex grammatical errors or provide partial corrections.
+- 🧠 Context understanding is basic and may not handle idiomatic expressions, sarcasm, or highly nuanced text accurately.
+
+We're continuously working on improving these aspects in future updates.
+
+
 ## 🙋‍♀️ About the Authors
 
 This project was developed with passion and collaboration by:
 
-- **Surabhi Verma**  
+- 👩‍💻 **Surabhi Verma**  
   📧 aloksurabhivermaofficial@gmail.com  
   🔗 [LinkedIn](https://www.linkedin.com/in/surabhi-verma-4693012b1/)
 
-- **Suhasini Singh**  
+- 🧠 **Suhasini Singh**  
   📧 suhasinisingh015@gmail.com  
   🔗 [LinkedIn](https://www.linkedin.com/in/suhasini-singh-bb49b0212/)
 
-- **Sakshi Singh**  
+- 🌟 **Sakshi Singh**  
   📧 sakshisinghgn2023@gmail.com  
   🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-singh-782ab6293/)
 
