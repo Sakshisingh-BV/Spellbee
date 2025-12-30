@@ -4,12 +4,7 @@ Welcome to the **VerbiBee** project! 🌐 This is an AI-powered spelling and gra
 
 ---
 
-## 🖼️ Preview
-![Screenshot 2025-05-24 124030](https://github.com/user-attachments/assets/01605495-c20e-4c0e-906e-85ca38d4dfe1)
 
-
-
-*Here's a glimpse of the website design.*
 
 ---
 
@@ -25,7 +20,7 @@ Welcome to the **VerbiBee** project! 🌐 This is an AI-powered spelling and gra
 
 ## 🔗 Visit the Website
 
-To experience the website live, please visit: [https://verbibee.netlify.app](https://verbibee.netlify.app/) 🌐
+To experience the website live, please visit: [https://Verbibee.app/](https://testing-f8g4.vercel.app/) 🌐
 
 ---
 
