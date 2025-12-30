@@ -49,19 +49,6 @@ To experience the website live, please visit: [VerbiBee Live Demo](https://testi
 
 We're continuously working on improving these aspects in future updates.
 
-
-## 🙋‍♀️ About the Authors
-
-This project was developed with passion and collaboration by:
-
-- 👩‍💻 **Surabhi Verma**  
-  📧 aloksurabhivermaofficial@gmail.com  
-  🔗 [LinkedIn](https://www.linkedin.com/in/surabhi-verma-4693012b1/)
-
-- 🧠 **Suhasini Singh**  
-  📧 suhasinisingh015@gmail.com  
-  🔗 [LinkedIn](https://www.linkedin.com/in/suhasini-singh-bb49b0212/)
-
 - 🌟 **Sakshi Singh**  
   📧 sakshisinghgn2023@gmail.com  
   🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-singh-782ab6293/)
