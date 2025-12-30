@@ -20,7 +20,7 @@ Welcome to the **VerbiBee** project! 🌐 This is an AI-powered spelling and gra
 
 ## 🔗 Visit the Website
 
-To experience the website live, please visit: [https://Verbibee.app/](https://testing-f8g4.vercel.app/) 🌐
+To experience the website live, please visit: [VerbiBee Live Demo](https://testing-a68q.vercel.app/)
 
 ---
 
